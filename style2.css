@@ -1,0 +1,68 @@
+body {
+
+    background-image: url(bg3.jpeg);
+    background-position: top;
+    background-repeat: none;
+}
+
+nav {
+    height: 70px;
+    background-color: rgb(33, 33, 32);
+    font-style: italic;
+    text-transform: capitalize;
+    color: rgb(77, 241, 239);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.last {
+    padding-bottom: 25px;
+    padding-top: 30px;
+}
+
+.first {
+    padding-top: 30px;
+}
+
+.card-body {
+    background-color: rgb(33, 33, 32);
+}
+
+.card-body h5 {
+    color: white;
+    font-style: italic;
+}
+
+.card {
+    border: 3px solid rgb(0, 0, 0);
+
+}
+
+audio::-webkit-media-controls-panel {
+    background-color: rgb(234, 57, 119);
+    /* color: #fff;  */
+    border-radius: 60px;
+
+}
+
+h1 {
+    color: white;
+    text-indent: 10px;
+}
+
+li {
+    color: white;
+
+}
+
+.header {
+    font-style: italic;
+    text-transform: capitalize;
+
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
